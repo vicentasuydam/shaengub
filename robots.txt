@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neipaexoo.vite-et-reves.com/sitemap.xml
